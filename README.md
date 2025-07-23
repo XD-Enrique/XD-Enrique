@@ -3,7 +3,7 @@
 
 Meu nome é **Enrique Zoz de Souza**, sou entusiasta de tecnologia, programação e projetos práticos.
 
-- 🎓 Estudante de Engenharia de Software pela católica de Santa Catarina 
+- 🎓 Estudante de **Engenharia de Software** pela **Católica de Santa Catarina**
 - 🖥️ Criando projetos com HTML, CSS, JS, C...
 - 🎮 Fã de games e automação DIY  
 
