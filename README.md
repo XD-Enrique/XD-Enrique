@@ -14,12 +14,12 @@ Meu nome é **Enrique Zoz de Souza**, sou entusiasta de tecnologia, programaçã
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
 
 ---
 
 ### 📈 Estatísticas
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Enrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnriqueZS&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XD-Enrique&layout=compact&theme=midnight-purple)
 
