@@ -20,7 +20,7 @@ Meu nome é **Enrique Zoz de Souza**, sou entusiasta de tecnologia, programaçã
 
 ### 📈 Estatísticas
 
-![Enrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=XD=Enrique&show_icons=true&theme=radical)
+![Enrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnriqueZS&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XD-Enrique&layout=compact&theme=midnight-purple)
 
 ---
