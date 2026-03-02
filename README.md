@@ -17,12 +17,4 @@ Meu nome é **Enrique Zoz de Souza**, sou entusiasta de tecnologia, programaçã
 
 ---
 
-### 📈 Estatísticas
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Enrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnriqueZS&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XD-Enrique&layout=compact&theme=midnight-purple)
-
----
-
 > ✨ *"A possibilidade de realizarmos um sonho é o que torna a vida interessante."*
