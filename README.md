@@ -17,4 +17,10 @@ Meu nome é **Enrique Zoz de Souza**, sou entusiasta de tecnologia, programaçã
 
 ---
 
+# 📊 GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=XD-Enrique&theme=sakura-x&locale=pt_BR)](https://git.io/streak-stats)
+
+---
+
 > ✨ *"A possibilidade de realizarmos um sonho é o que torna a vida interessante."*
